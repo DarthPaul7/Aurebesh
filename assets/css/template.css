@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(255, 238, 0);
+}
+
+h1 {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 300%;
+}
+
+div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div1 {
+    font-size: medium;
+}
+
+div2 {
+    color: black;
+}
+
+p {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+
+h2 {
+    position: relative;
+    top: 20px;
+}
+
+h3 {
+    position: relative; 
+    top: 30px;
+}
+
+p2 {
+    position: relative;
+    top: 15px;
+}
+
+h4 {
+    position: relative;
+    top: 15px;
+}
